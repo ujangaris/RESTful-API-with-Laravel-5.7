@@ -1,3 +1,4 @@
 1. php artisan make:controller Country\\CountryController
 2. php artisan make:model Models\\CountryModel
+3. https://restfulapi.net/http-status-codes/
 
