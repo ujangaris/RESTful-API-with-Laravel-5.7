@@ -2,5 +2,7 @@
 2. php artisan make:model Models\\CountryModel
 3. https://restfulapi.net/http-status-codes/
 4. php artisan make:controller Country\\Country -r
+5.  php artisan make:auth
+6. php artisan make:middleware AuthKey
 
 
