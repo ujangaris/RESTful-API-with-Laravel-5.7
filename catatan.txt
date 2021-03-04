@@ -4,5 +4,6 @@
 4. php artisan make:controller Country\\Country -r
 5.  php artisan make:auth
 6. php artisan make:middleware AuthKey
+7. php artisan make:middleware AuthBasic
 
 
