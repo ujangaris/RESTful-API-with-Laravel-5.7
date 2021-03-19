@@ -13,5 +13,12 @@
         #  https://laravel.com/docs/5.7/passport
         - php artisan migrate:fresh
         - php artisan passport:install
+11. php artisan passport:client
+    - 3, abc (GAGAL)
+12. GAGAL
+
+materi tutorial youtube : Atif Naseem
+
+https://www.youtube.com/watch?v=rDJ7BebkNso&list=PLYVcyg3AF-zvDDXBLDyn9UJSgAYMWpUS3&index=2
 
 
